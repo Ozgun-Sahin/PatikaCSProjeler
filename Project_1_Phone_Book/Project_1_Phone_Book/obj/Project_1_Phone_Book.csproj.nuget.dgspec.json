@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ozgun\\Desktop\\Ödevİki\\Project_1_Phone_Book\\Project_1_Phone_Book\\Project_1_Phone_Book.csproj": {}
+    "C:\\Users\\ozgun\\Desktop\\C#101 Projeler\\Project_1_Phone_Book\\Project_1_Phone_Book\\Project_1_Phone_Book.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ozgun\\Desktop\\Ödevİki\\Project_1_Phone_Book\\Project_1_Phone_Book\\Project_1_Phone_Book.csproj": {
+    "C:\\Users\\ozgun\\Desktop\\C#101 Projeler\\Project_1_Phone_Book\\Project_1_Phone_Book\\Project_1_Phone_Book.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ozgun\\Desktop\\Ödevİki\\Project_1_Phone_Book\\Project_1_Phone_Book\\Project_1_Phone_Book.csproj",
+        "projectUniqueName": "C:\\Users\\ozgun\\Desktop\\C#101 Projeler\\Project_1_Phone_Book\\Project_1_Phone_Book\\Project_1_Phone_Book.csproj",
         "projectName": "Project_1_Phone_Book",
-        "projectPath": "C:\\Users\\ozgun\\Desktop\\Ödevİki\\Project_1_Phone_Book\\Project_1_Phone_Book\\Project_1_Phone_Book.csproj",
+        "projectPath": "C:\\Users\\ozgun\\Desktop\\C#101 Projeler\\Project_1_Phone_Book\\Project_1_Phone_Book\\Project_1_Phone_Book.csproj",
         "packagesPath": "C:\\Users\\ozgun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ozgun\\Desktop\\Ödevİki\\Project_1_Phone_Book\\Project_1_Phone_Book\\obj\\",
+        "outputPath": "C:\\Users\\ozgun\\Desktop\\C#101 Projeler\\Project_1_Phone_Book\\Project_1_Phone_Book\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ozgun\\AppData\\Roaming\\NuGet\\NuGet.Config",

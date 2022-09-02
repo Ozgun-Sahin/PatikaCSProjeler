@@ -10,6 +10,6 @@ namespace Project_1_Phone_Book.Data
     {
         public string Isim { get; set; }
         public string Soyisim { get; set; }
-        public int Numara { get; set; }
+        public string Numara { get; set; }
     }
 }
