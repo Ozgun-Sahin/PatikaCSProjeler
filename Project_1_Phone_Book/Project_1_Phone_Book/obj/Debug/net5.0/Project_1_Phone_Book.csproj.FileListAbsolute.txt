@@ -1,0 +1,16 @@
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_1_Phone_Book\Project_1_Phone_Book\bin\Debug\net5.0\Project_1_Phone_Book.exe
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_1_Phone_Book\Project_1_Phone_Book\bin\Debug\net5.0\Project_1_Phone_Book.deps.json
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_1_Phone_Book\Project_1_Phone_Book\bin\Debug\net5.0\Project_1_Phone_Book.runtimeconfig.json
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_1_Phone_Book\Project_1_Phone_Book\bin\Debug\net5.0\Project_1_Phone_Book.runtimeconfig.dev.json
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_1_Phone_Book\Project_1_Phone_Book\bin\Debug\net5.0\Project_1_Phone_Book.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_1_Phone_Book\Project_1_Phone_Book\bin\Debug\net5.0\Project_1_Phone_Book.pdb
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_1_Phone_Book\Project_1_Phone_Book\obj\Debug\net5.0\Project_1_Phone_Book.csproj.AssemblyReference.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_1_Phone_Book\Project_1_Phone_Book\obj\Debug\net5.0\Project_1_Phone_Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_1_Phone_Book\Project_1_Phone_Book\obj\Debug\net5.0\Project_1_Phone_Book.AssemblyInfoInputs.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_1_Phone_Book\Project_1_Phone_Book\obj\Debug\net5.0\Project_1_Phone_Book.AssemblyInfo.cs
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_1_Phone_Book\Project_1_Phone_Book\obj\Debug\net5.0\Project_1_Phone_Book.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_1_Phone_Book\Project_1_Phone_Book\obj\Debug\net5.0\Project_1_Phone_Book.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_1_Phone_Book\Project_1_Phone_Book\obj\Debug\net5.0\refint\Project_1_Phone_Book.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_1_Phone_Book\Project_1_Phone_Book\obj\Debug\net5.0\Project_1_Phone_Book.pdb
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_1_Phone_Book\Project_1_Phone_Book\obj\Debug\net5.0\Project_1_Phone_Book.genruntimeconfig.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_1_Phone_Book\Project_1_Phone_Book\obj\Debug\net5.0\ref\Project_1_Phone_Book.dll

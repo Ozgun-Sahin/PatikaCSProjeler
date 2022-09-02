@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Project_1_Phone_Book.Islemler
 {
-    public class NumaraEkleme :IIslemler
+    public class NumaraEkleme 
     {
         public void Kaydet()
         {

@@ -28,5 +28,11 @@ namespace Project_1_Phone_Book.Data
             get { return _kisiListesi; }
         }
 
+        
+
+        
+
+
+
     }
 }

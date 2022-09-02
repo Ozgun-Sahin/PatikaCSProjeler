@@ -7,83 +7,26 @@ using System.Threading.Tasks;
 
 namespace Project_1_Phone_Book.Islemler
 {
-    public class NumaraSilme :IIslemler
+    public class NumaraSilme 
     {
-        public bool KisiMevcutMu(string girdi)
-        {
-            bool mevcut = RehberDB.KisiListesi.Any(x => x.Isim == girdi || x.Soyisim == girdi);
-            return mevcut;
-        }
-
-        public int KisiMevcutDegil()
-        {
-            Console.WriteLine("Aradığınız krtiterlere uygun veri rehberde bulunamadı. Lütfen bir seçim yapınız.");
-            int secim;
-
-            while (true)
-            {
-                Console.WriteLine("*Silmeyi sonlandırmak için : (1)");
-                Console.WriteLine("*Yeniden denemek için      : (2)");
-
-                if (int.TryParse(Console.ReadLine(), out secim))
-                {
-                    if (secim == 1)
-                    {
-                        return 1;
-                    }
-                    else if (secim == 2)
-                    {
-                        return 2;
-                    }
-                }
-                else
-                {
-                    Console.WriteLine("Gecersiz bir karakter girdiniz. Tekrar deneyiniz ");
-                }
-            }
-        }
-
-        public bool EvetHayir(Kisi girdi)
-        {
-            while(true)
-            {
-                Console.WriteLine(girdi.Isim + " " + girdi.Soyisim + " isimli kişi rehberden silinmek üzere, onaylıyor musunuz ? Y/N");
-
-                string secim = Console.ReadLine().ToUpper();
-
-                if (secim == "Y")
-                {
-                    return true;
-                    //break;
-                }
-                else if (secim == "N")
-                {
-                    return false;
-                    //break;
-                }
-                else
-                {
-                    Console.WriteLine("Lütfen geçerli bir karakter giriniz (Y/N)");
-                }
-            }
-        }
-
+        RehberIslemleri rbi = new RehberIslemleri();
 
         public void Sil()
         {
+        Sil:
             while (true)
             {
                 Console.WriteLine("Lütfen numarasını silmek istediğiniz kişinin adını ya da soyadını giriniz:");
 
                 string girdi = Console.ReadLine();
 
-                bool mevcutMu = KisiMevcutMu(girdi);
+                bool mevcutMu = rbi.KisiMevcutMu(girdi);
 
                 if (mevcutMu)
                 {
                     Kisi silinecekKisi = RehberDB.KisiListesi.FirstOrDefault(x => x.Isim == girdi || x.Soyisim == girdi);
 
-                    bool onay = EvetHayir(silinecekKisi);
+                    bool onay = rbi.EvetHayir(silinecekKisi);
 
                     if (onay)
                     {
@@ -100,7 +43,11 @@ namespace Project_1_Phone_Book.Islemler
 
                 else
                 {
-                    int secim = KisiMevcutDegil();
+                    Console.WriteLine("Aradığınız krtiterlere uygun veri rehberde bulunamadı. Lütfen bir seçim yapınız.");
+                    Console.WriteLine("*Silmeyi sonlandırmak için : (1)");
+                    Console.WriteLine("*Yeniden denemek için      : (2)");
+
+                    int secim = rbi.Secim();
 
                     if (secim ==1)
                     {
@@ -110,6 +57,7 @@ namespace Project_1_Phone_Book.Islemler
                     else if (secim == 2)
                     {
                         Console.WriteLine("***");
+                        goto Sil;
                     }
 
                 }

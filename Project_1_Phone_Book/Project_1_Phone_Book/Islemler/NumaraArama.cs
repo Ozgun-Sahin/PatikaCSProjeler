@@ -7,21 +7,13 @@ using System.Threading.Tasks;
 
 namespace Project_1_Phone_Book.Islemler
 {
-    public class NumaraArama : IIslemler
+    public class NumaraArama  
     {
-        public void KisiGoster(Kisi kisi)
-        {
-            Console.WriteLine("İsim: " + kisi.Isim);
-            Console.WriteLine("Soyisim: " + kisi.Soyisim);
-            Console.WriteLine("Telefon Numarası: " + kisi.Numara);
-            
-        }
-
+       
+        RehberIslemleri rbi = new RehberIslemleri();
 
         public void Arama()
         {
-        Arama:
-
             Console.WriteLine("Arama yapmak istediğiniz tipi seçiniz.");
             Console.WriteLine("*********************************************");
             Console.WriteLine("İsim veya soyisime göre arama yapmak için: (1)");
@@ -30,15 +22,16 @@ namespace Project_1_Phone_Book.Islemler
             Kisi kisi = new Kisi();
 
             string girdi = Console.ReadLine();
+            int secim = rbi.Secim();
 
-            if (girdi == "1")
+            if (secim == 1)
             {
                 Console.WriteLine("İsim veya soyisim giriniz : ");
                 string girdi2 = Console.ReadLine();
                 kisi = RehberDB.KisiListesi.FirstOrDefault(x => x.Isim == girdi2 || x.Soyisim == girdi2);
-                KisiGoster(kisi);
+                rbi.KisiGoster(kisi);
             }
-            else if (girdi == "2")
+            else if (secim == 2)
             {
                 Console.WriteLine("Telefon numarası giriniz : ");
                 string girdi3 = Console.ReadLine();
@@ -47,15 +40,9 @@ namespace Project_1_Phone_Book.Islemler
                 {
                     if (item.Numara.Contains(girdi3))
                     {
-                        KisiGoster(item);
+                        rbi.KisiGoster(kisi);
                     }
                 }
-
-            }
-            else
-            {
-                Console.WriteLine("Gecersiz bir karakter girdiniz.Tekrar deneyiniz");
-                goto Arama;
 
             }
             
