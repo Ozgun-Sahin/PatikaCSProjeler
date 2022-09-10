@@ -1,0 +1,16 @@
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_2_ToDo\Project_2_ToDo\bin\Debug\net5.0\Project_2_ToDo.exe
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_2_ToDo\Project_2_ToDo\bin\Debug\net5.0\Project_2_ToDo.deps.json
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_2_ToDo\Project_2_ToDo\bin\Debug\net5.0\Project_2_ToDo.runtimeconfig.json
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_2_ToDo\Project_2_ToDo\bin\Debug\net5.0\Project_2_ToDo.runtimeconfig.dev.json
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_2_ToDo\Project_2_ToDo\bin\Debug\net5.0\Project_2_ToDo.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_2_ToDo\Project_2_ToDo\bin\Debug\net5.0\Project_2_ToDo.pdb
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_2_ToDo\Project_2_ToDo\obj\Debug\net5.0\Project_2_ToDo.csproj.AssemblyReference.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_2_ToDo\Project_2_ToDo\obj\Debug\net5.0\Project_2_ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_2_ToDo\Project_2_ToDo\obj\Debug\net5.0\Project_2_ToDo.AssemblyInfoInputs.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_2_ToDo\Project_2_ToDo\obj\Debug\net5.0\Project_2_ToDo.AssemblyInfo.cs
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_2_ToDo\Project_2_ToDo\obj\Debug\net5.0\Project_2_ToDo.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_2_ToDo\Project_2_ToDo\obj\Debug\net5.0\Project_2_ToDo.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_2_ToDo\Project_2_ToDo\obj\Debug\net5.0\refint\Project_2_ToDo.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_2_ToDo\Project_2_ToDo\obj\Debug\net5.0\Project_2_ToDo.pdb
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_2_ToDo\Project_2_ToDo\obj\Debug\net5.0\Project_2_ToDo.genruntimeconfig.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\Project_2_ToDo\Project_2_ToDo\obj\Debug\net5.0\ref\Project_2_ToDo.dll
