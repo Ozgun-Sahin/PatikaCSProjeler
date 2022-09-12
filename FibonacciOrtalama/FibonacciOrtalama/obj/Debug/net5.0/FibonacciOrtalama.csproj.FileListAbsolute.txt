@@ -1,0 +1,16 @@
+C:\Users\ozgun\Desktop\C#101 Projeler\FibonacciOrtalama\FibonacciOrtalama\bin\Debug\net5.0\FibonacciOrtalama.exe
+C:\Users\ozgun\Desktop\C#101 Projeler\FibonacciOrtalama\FibonacciOrtalama\bin\Debug\net5.0\FibonacciOrtalama.deps.json
+C:\Users\ozgun\Desktop\C#101 Projeler\FibonacciOrtalama\FibonacciOrtalama\bin\Debug\net5.0\FibonacciOrtalama.runtimeconfig.json
+C:\Users\ozgun\Desktop\C#101 Projeler\FibonacciOrtalama\FibonacciOrtalama\bin\Debug\net5.0\FibonacciOrtalama.runtimeconfig.dev.json
+C:\Users\ozgun\Desktop\C#101 Projeler\FibonacciOrtalama\FibonacciOrtalama\bin\Debug\net5.0\FibonacciOrtalama.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\FibonacciOrtalama\FibonacciOrtalama\bin\Debug\net5.0\FibonacciOrtalama.pdb
+C:\Users\ozgun\Desktop\C#101 Projeler\FibonacciOrtalama\FibonacciOrtalama\obj\Debug\net5.0\FibonacciOrtalama.csproj.AssemblyReference.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\FibonacciOrtalama\FibonacciOrtalama\obj\Debug\net5.0\FibonacciOrtalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgun\Desktop\C#101 Projeler\FibonacciOrtalama\FibonacciOrtalama\obj\Debug\net5.0\FibonacciOrtalama.AssemblyInfoInputs.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\FibonacciOrtalama\FibonacciOrtalama\obj\Debug\net5.0\FibonacciOrtalama.AssemblyInfo.cs
+C:\Users\ozgun\Desktop\C#101 Projeler\FibonacciOrtalama\FibonacciOrtalama\obj\Debug\net5.0\FibonacciOrtalama.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\FibonacciOrtalama\FibonacciOrtalama\obj\Debug\net5.0\FibonacciOrtalama.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\FibonacciOrtalama\FibonacciOrtalama\obj\Debug\net5.0\refint\FibonacciOrtalama.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\FibonacciOrtalama\FibonacciOrtalama\obj\Debug\net5.0\FibonacciOrtalama.pdb
+C:\Users\ozgun\Desktop\C#101 Projeler\FibonacciOrtalama\FibonacciOrtalama\obj\Debug\net5.0\FibonacciOrtalama.genruntimeconfig.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\FibonacciOrtalama\FibonacciOrtalama\obj\Debug\net5.0\ref\FibonacciOrtalama.dll
