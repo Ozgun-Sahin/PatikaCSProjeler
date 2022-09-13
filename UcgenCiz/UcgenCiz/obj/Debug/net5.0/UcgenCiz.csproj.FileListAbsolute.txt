@@ -1,0 +1,16 @@
+C:\Users\ozgun\Desktop\C#101 Projeler\UcgenCiz\UcgenCiz\bin\Debug\net5.0\UcgenCiz.exe
+C:\Users\ozgun\Desktop\C#101 Projeler\UcgenCiz\UcgenCiz\bin\Debug\net5.0\UcgenCiz.deps.json
+C:\Users\ozgun\Desktop\C#101 Projeler\UcgenCiz\UcgenCiz\bin\Debug\net5.0\UcgenCiz.runtimeconfig.json
+C:\Users\ozgun\Desktop\C#101 Projeler\UcgenCiz\UcgenCiz\bin\Debug\net5.0\UcgenCiz.runtimeconfig.dev.json
+C:\Users\ozgun\Desktop\C#101 Projeler\UcgenCiz\UcgenCiz\bin\Debug\net5.0\UcgenCiz.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\UcgenCiz\UcgenCiz\bin\Debug\net5.0\UcgenCiz.pdb
+C:\Users\ozgun\Desktop\C#101 Projeler\UcgenCiz\UcgenCiz\obj\Debug\net5.0\UcgenCiz.csproj.AssemblyReference.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\UcgenCiz\UcgenCiz\obj\Debug\net5.0\UcgenCiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgun\Desktop\C#101 Projeler\UcgenCiz\UcgenCiz\obj\Debug\net5.0\UcgenCiz.AssemblyInfoInputs.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\UcgenCiz\UcgenCiz\obj\Debug\net5.0\UcgenCiz.AssemblyInfo.cs
+C:\Users\ozgun\Desktop\C#101 Projeler\UcgenCiz\UcgenCiz\obj\Debug\net5.0\UcgenCiz.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\UcgenCiz\UcgenCiz\obj\Debug\net5.0\UcgenCiz.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\UcgenCiz\UcgenCiz\obj\Debug\net5.0\refint\UcgenCiz.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\UcgenCiz\UcgenCiz\obj\Debug\net5.0\UcgenCiz.pdb
+C:\Users\ozgun\Desktop\C#101 Projeler\UcgenCiz\UcgenCiz\obj\Debug\net5.0\UcgenCiz.genruntimeconfig.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\UcgenCiz\UcgenCiz\obj\Debug\net5.0\ref\UcgenCiz.dll
