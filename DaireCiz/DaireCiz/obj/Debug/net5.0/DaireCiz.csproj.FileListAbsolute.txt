@@ -1,0 +1,16 @@
+C:\Users\ozgun\Desktop\C#101 Projeler\DaireCiz\DaireCiz\bin\Debug\net5.0\DaireCiz.exe
+C:\Users\ozgun\Desktop\C#101 Projeler\DaireCiz\DaireCiz\bin\Debug\net5.0\DaireCiz.deps.json
+C:\Users\ozgun\Desktop\C#101 Projeler\DaireCiz\DaireCiz\bin\Debug\net5.0\DaireCiz.runtimeconfig.json
+C:\Users\ozgun\Desktop\C#101 Projeler\DaireCiz\DaireCiz\bin\Debug\net5.0\DaireCiz.runtimeconfig.dev.json
+C:\Users\ozgun\Desktop\C#101 Projeler\DaireCiz\DaireCiz\bin\Debug\net5.0\DaireCiz.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\DaireCiz\DaireCiz\bin\Debug\net5.0\DaireCiz.pdb
+C:\Users\ozgun\Desktop\C#101 Projeler\DaireCiz\DaireCiz\obj\Debug\net5.0\DaireCiz.csproj.AssemblyReference.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\DaireCiz\DaireCiz\obj\Debug\net5.0\DaireCiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgun\Desktop\C#101 Projeler\DaireCiz\DaireCiz\obj\Debug\net5.0\DaireCiz.AssemblyInfoInputs.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\DaireCiz\DaireCiz\obj\Debug\net5.0\DaireCiz.AssemblyInfo.cs
+C:\Users\ozgun\Desktop\C#101 Projeler\DaireCiz\DaireCiz\obj\Debug\net5.0\DaireCiz.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\DaireCiz\DaireCiz\obj\Debug\net5.0\DaireCiz.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\DaireCiz\DaireCiz\obj\Debug\net5.0\refint\DaireCiz.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\DaireCiz\DaireCiz\obj\Debug\net5.0\DaireCiz.pdb
+C:\Users\ozgun\Desktop\C#101 Projeler\DaireCiz\DaireCiz\obj\Debug\net5.0\DaireCiz.genruntimeconfig.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\DaireCiz\DaireCiz\obj\Debug\net5.0\ref\DaireCiz.dll
