@@ -1,0 +1,16 @@
+C:\Users\ozgun\Desktop\C#101 Projeler\KarakterTerstenYazma\KarakterTerstenYazma\bin\Debug\net5.0\KarakterTerstenYazma.exe
+C:\Users\ozgun\Desktop\C#101 Projeler\KarakterTerstenYazma\KarakterTerstenYazma\bin\Debug\net5.0\KarakterTerstenYazma.deps.json
+C:\Users\ozgun\Desktop\C#101 Projeler\KarakterTerstenYazma\KarakterTerstenYazma\bin\Debug\net5.0\KarakterTerstenYazma.runtimeconfig.json
+C:\Users\ozgun\Desktop\C#101 Projeler\KarakterTerstenYazma\KarakterTerstenYazma\bin\Debug\net5.0\KarakterTerstenYazma.runtimeconfig.dev.json
+C:\Users\ozgun\Desktop\C#101 Projeler\KarakterTerstenYazma\KarakterTerstenYazma\bin\Debug\net5.0\KarakterTerstenYazma.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\KarakterTerstenYazma\KarakterTerstenYazma\bin\Debug\net5.0\KarakterTerstenYazma.pdb
+C:\Users\ozgun\Desktop\C#101 Projeler\KarakterTerstenYazma\KarakterTerstenYazma\obj\Debug\net5.0\KarakterTerstenYazma.csproj.AssemblyReference.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\KarakterTerstenYazma\KarakterTerstenYazma\obj\Debug\net5.0\KarakterTerstenYazma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgun\Desktop\C#101 Projeler\KarakterTerstenYazma\KarakterTerstenYazma\obj\Debug\net5.0\KarakterTerstenYazma.AssemblyInfoInputs.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\KarakterTerstenYazma\KarakterTerstenYazma\obj\Debug\net5.0\KarakterTerstenYazma.AssemblyInfo.cs
+C:\Users\ozgun\Desktop\C#101 Projeler\KarakterTerstenYazma\KarakterTerstenYazma\obj\Debug\net5.0\KarakterTerstenYazma.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\KarakterTerstenYazma\KarakterTerstenYazma\obj\Debug\net5.0\KarakterTerstenYazma.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\KarakterTerstenYazma\KarakterTerstenYazma\obj\Debug\net5.0\refint\KarakterTerstenYazma.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\KarakterTerstenYazma\KarakterTerstenYazma\obj\Debug\net5.0\KarakterTerstenYazma.pdb
+C:\Users\ozgun\Desktop\C#101 Projeler\KarakterTerstenYazma\KarakterTerstenYazma\obj\Debug\net5.0\KarakterTerstenYazma.genruntimeconfig.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\KarakterTerstenYazma\KarakterTerstenYazma\obj\Debug\net5.0\ref\KarakterTerstenYazma.dll
