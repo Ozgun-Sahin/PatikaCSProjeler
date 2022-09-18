@@ -1,0 +1,15 @@
+C:\Users\ozgun\Desktop\C#101 Projeler\Integer İkililerin Toplamı\Integer İkililerin Toplamı\bin\Debug\net6.0\Integer İkililerin Toplamı.exe
+C:\Users\ozgun\Desktop\C#101 Projeler\Integer İkililerin Toplamı\Integer İkililerin Toplamı\bin\Debug\net6.0\Integer İkililerin Toplamı.deps.json
+C:\Users\ozgun\Desktop\C#101 Projeler\Integer İkililerin Toplamı\Integer İkililerin Toplamı\bin\Debug\net6.0\Integer İkililerin Toplamı.runtimeconfig.json
+C:\Users\ozgun\Desktop\C#101 Projeler\Integer İkililerin Toplamı\Integer İkililerin Toplamı\bin\Debug\net6.0\Integer İkililerin Toplamı.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\Integer İkililerin Toplamı\Integer İkililerin Toplamı\bin\Debug\net6.0\Integer İkililerin Toplamı.pdb
+C:\Users\ozgun\Desktop\C#101 Projeler\Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net6.0\Integer İkililerin Toplamı.csproj.AssemblyReference.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net6.0\Integer İkililerin Toplamı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgun\Desktop\C#101 Projeler\Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net6.0\Integer İkililerin Toplamı.AssemblyInfoInputs.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net6.0\Integer İkililerin Toplamı.AssemblyInfo.cs
+C:\Users\ozgun\Desktop\C#101 Projeler\Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net6.0\Integer İkililerin Toplamı.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net6.0\Integer İkililerin Toplamı.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net6.0\refint\Integer İkililerin Toplamı.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net6.0\Integer İkililerin Toplamı.pdb
+C:\Users\ozgun\Desktop\C#101 Projeler\Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net6.0\Integer İkililerin Toplamı.genruntimeconfig.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\Integer İkililerin Toplamı\Integer İkililerin Toplamı\obj\Debug\net6.0\ref\Integer İkililerin Toplamı.dll
