@@ -1,0 +1,16 @@
+C:\Users\ozgun\Desktop\C#101 Projeler\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\AlanHesaplama.csproj.AssemblyReference.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\AlanHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgun\Desktop\C#101 Projeler\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\AlanHesaplama.AssemblyInfoInputs.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\AlanHesaplama.AssemblyInfo.cs
+C:\Users\ozgun\Desktop\C#101 Projeler\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\AlanHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\AlanHesaplama\AlanHesaplama\bin\Debug\net5.0\AlanHesaplama.exe
+C:\Users\ozgun\Desktop\C#101 Projeler\AlanHesaplama\AlanHesaplama\bin\Debug\net5.0\AlanHesaplama.deps.json
+C:\Users\ozgun\Desktop\C#101 Projeler\AlanHesaplama\AlanHesaplama\bin\Debug\net5.0\AlanHesaplama.runtimeconfig.json
+C:\Users\ozgun\Desktop\C#101 Projeler\AlanHesaplama\AlanHesaplama\bin\Debug\net5.0\AlanHesaplama.runtimeconfig.dev.json
+C:\Users\ozgun\Desktop\C#101 Projeler\AlanHesaplama\AlanHesaplama\bin\Debug\net5.0\AlanHesaplama.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\AlanHesaplama\AlanHesaplama\bin\Debug\net5.0\AlanHesaplama.pdb
+C:\Users\ozgun\Desktop\C#101 Projeler\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\AlanHesaplama.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\refint\AlanHesaplama.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\AlanHesaplama.pdb
+C:\Users\ozgun\Desktop\C#101 Projeler\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\AlanHesaplama.genruntimeconfig.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\ref\AlanHesaplama.dll
