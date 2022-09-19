@@ -1,0 +1,15 @@
+C:\Users\ozgun\Desktop\C#101 Projeler\SessizHarf\SessizHarf\bin\Debug\net6.0\SessizHarf.exe
+C:\Users\ozgun\Desktop\C#101 Projeler\SessizHarf\SessizHarf\bin\Debug\net6.0\SessizHarf.deps.json
+C:\Users\ozgun\Desktop\C#101 Projeler\SessizHarf\SessizHarf\bin\Debug\net6.0\SessizHarf.runtimeconfig.json
+C:\Users\ozgun\Desktop\C#101 Projeler\SessizHarf\SessizHarf\bin\Debug\net6.0\SessizHarf.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\SessizHarf\SessizHarf\bin\Debug\net6.0\SessizHarf.pdb
+C:\Users\ozgun\Desktop\C#101 Projeler\SessizHarf\SessizHarf\obj\Debug\net6.0\SessizHarf.csproj.AssemblyReference.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\SessizHarf\SessizHarf\obj\Debug\net6.0\SessizHarf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgun\Desktop\C#101 Projeler\SessizHarf\SessizHarf\obj\Debug\net6.0\SessizHarf.AssemblyInfoInputs.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\SessizHarf\SessizHarf\obj\Debug\net6.0\SessizHarf.AssemblyInfo.cs
+C:\Users\ozgun\Desktop\C#101 Projeler\SessizHarf\SessizHarf\obj\Debug\net6.0\SessizHarf.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\SessizHarf\SessizHarf\obj\Debug\net6.0\SessizHarf.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\SessizHarf\SessizHarf\obj\Debug\net6.0\refint\SessizHarf.dll
+C:\Users\ozgun\Desktop\C#101 Projeler\SessizHarf\SessizHarf\obj\Debug\net6.0\SessizHarf.pdb
+C:\Users\ozgun\Desktop\C#101 Projeler\SessizHarf\SessizHarf\obj\Debug\net6.0\SessizHarf.genruntimeconfig.cache
+C:\Users\ozgun\Desktop\C#101 Projeler\SessizHarf\SessizHarf\obj\Debug\net6.0\ref\SessizHarf.dll
